@@ -312,4 +312,4 @@ After log in:
 ![](media/image30.png)
 WEBOGRAPHY:
 
-\[1\] https://digitalavenue.dev/Install-SonarQube-On-Ubuntu-Debian/
+ https://digitalavenue.dev/Install-SonarQube-On-Ubuntu-Debian/
