@@ -310,6 +310,6 @@ Access to the web console through the web browser: localhost :9000
 After log in:
 
 ![](media/image30.png)
-WEBOGRAPHY:
+# WEBOGRAPHY:
 
  https://digitalavenue.dev/Install-SonarQube-On-Ubuntu-Debian/
