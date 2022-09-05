@@ -1,7 +1,6 @@
 # Security testing:
 
-## SonarQube Integration with Jenkins Pipeline \| Sonar Scanner on
-Jenkins Server \| Jenkins CI/ test CD ():
+## SonarQube Integration with Jenkins Pipeline \| Sonar Scanner on Jenkins Server \| Jenkins CI/ test CD ():
 
 These are the steps that we have to follow to Integrate SonarQube with
 Jenkins using Jenkins Pipeline
