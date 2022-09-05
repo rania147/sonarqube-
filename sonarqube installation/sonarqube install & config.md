@@ -2,7 +2,7 @@
 
 ## What is SonarQube?
 
-###SonarQube : code quality tool
+### SonarQube : code quality tool
 
 SonarQube is an open-source web-based tool to manage code quality and
 code analysis. It is most widely used in continuous code inspection
