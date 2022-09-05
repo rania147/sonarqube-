@@ -17,7 +17,7 @@ compromise your application. Make sure your codebase is clean and
 maintainable, to increase developer velocity!
 
 ## What is PostgreSQL?
-### PostgreSQL is an open source and powerful object-relational database
+** PostgreSQL ** is an open source and powerful object-relational database
 system.
 
 The relational database is the most common type of database in use.
@@ -31,8 +31,7 @@ compliant
 
 ## What is Sonar scanner?
 
-### SonarQube Scanner or a sonar-scanner- 
-performs the code analysis,
+*** SonarQube Scanner or a sonar-scanner-*** performs the code analysis,
 generates the results and sends the results to SonarQube. It is a
 generic, CLI scanner, and you must provide configurations that list the
 locations of your source files, test files, SonarQube host and URL with
